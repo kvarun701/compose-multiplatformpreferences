@@ -930,11 +930,28 @@ your Compose apps.
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/FlexibleBottomSheet?style=flat)](https://github.com/skydoves/FlexibleBottomSheet)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/flexible-core)](https://central.sonatype.com/artifact/com.github.skydoves/flexible-core)
 > Advanced Compose Multiplatform bottom sheet for segmented sizing and non-modal type, similar to Google Maps.
-
+### 📦 Storage
+[Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
+[![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
+[![Maven Central](https://img.shields.io/maven-central/v/com.russhwolf/multiplatform-settings)](https://central.sonatype.com/artifact/com.russhwolf/multiplatform-settings)
+> This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data
 [orbitral](https://github.com/skydoves/orbital) - Dynamic animation library for Compose Multiplatform
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/orbital?style=flat)](https://github.com/skydoves/orbital)
 [![Maven Central](https://img.shields.io/maven-central/v/com.github.skydoves/orbital)](https://central.sonatype.com/artifact/com.github.skydoves/orbital)
 > Jetpack Compose animation library that allows you to implement animations such as shared element transition.
+### 📦 Storage
+[Multiplatform-Settings](https://github.com/russhwolf/multiplatform-settings) - Key-Value preferences
+[![GitHub Repo stars](https://img.shields.io/github/stars/russhwolf/multiplatform-settings?style=flat)](https://github.com/russhwolf/multiplatform-settings)
+[![Maven Central](https://img.shields.io/maven-central/v/com.russhwolf/multiplatform-settings)](https://central.sonatype.com/artifact/com.russhwolf/multiplatform-settings)
+> This is a Kotlin library for Multiplatform apps, so that common code can persist key-value data
+
+[compose-multiplatform-preferences](https://github.com/kvarun701/compose-multiplatform-preferences) - Key-Value preferences and settings editor UI
+[![GitHub Repo stars](https://img.shields.io/github/stars/kvarun701/compose-multiplatform-preferences?style=flat)](https://github.com/kvarun701/compose-multiplatform-preferences)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.kvarun701.compose-multiplatform-preferences/compose-pref)](https://central.sonatype.com/artifact/io.github.kvarun701.compose-multiplatform-preferences/compose-pref)
+> A lightweight, developer-friendly Key-Value Storage library for Kotlin/Compose Multiplatform with elegant property delegates and a built-in settings editor UI.
+
+[KVault](https://github.com/Liftric/KVault) - secure key-value storage
+...
 
 [compose-stable-marker](https://github.com/skydoves/compose-stable-marker) - Compose stable markers for KMP to tell stable/immutable guarantees
 [![GitHub Repo stars](https://img.shields.io/github/stars/skydoves/compose-stable-marker?style=flat)](https://github.com/skydoves/compose-stable-marker)
